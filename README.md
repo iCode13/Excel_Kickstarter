@@ -1,2 +1,2 @@
 # Excel_Kickstarter
-Excel visualizations and analyses of Kickstarter Campaigns.
+Excel analyses, visualization and report on Kickstarter Campaigns.
